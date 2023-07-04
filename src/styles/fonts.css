@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "SF Pro";
+  src: url("../assets/fonts/SFPRODISPLAYREGULAR.OTF") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("../assets/fonts/SFPRODISPLAYBOLD.OTF") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk";
+  src: url("../assets/fonts/Neue Haas Grotesk.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk";
+  src: url("../assets/fonts/Neue Haas Grotesk Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
